@@ -1,4 +1,4 @@
-# Clase 8 — Ordenamiento por mezcla
+# Ejercicio 8 — Ordenamiento por mezcla
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
